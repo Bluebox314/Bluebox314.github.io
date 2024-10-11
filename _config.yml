@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Nathan Roy / Site Title"
+title                    : "Nathan Roy / Digital Portfolio"
 title_separator          : "-"
 name                     : &name "Nathan Roy"
 description              : &description "personal description"
