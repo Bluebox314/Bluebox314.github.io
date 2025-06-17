@@ -21,7 +21,7 @@ repository               : "Bluebox314/Bluebox314.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile_pic.png"
   name             : "Nathan Roy"
   pronouns         : "he/him"  
   bio              : "My name is Nathan Roy, I like playing games bass and hyperpop"
